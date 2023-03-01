@@ -1,0 +1,19 @@
+.root {
+  position: fixed;
+  top: 3vh;
+  left: 2vw;
+  width: 96vw;
+  height: 94vh;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.loginCard {
+  width: 420px;
+  background-color: #fff;
+  padding: 40px 40px 40px 40px;
+  border-radius: 10px;
+  box-shadow: 2px 3px 7px rgb(0 0 0 / 20%);
+}
